@@ -1,0 +1,10 @@
+namespace test.database;
+
+context MyContext {
+
+    entity MyTable {
+        key id : Integer generated always as identity;
+        name : String(255);
+    };
+
+ };
