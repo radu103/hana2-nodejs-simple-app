@@ -1,6 +1,6 @@
 ## hana2-nodejs-simple-app description
 
-Version testeed : SAP HANA Express 2.0 SPS03 from [here](https://www.sap.com/developer/topics/sap-hana-express.html)
+Version tested : SAP HANA Express 2.0 SPS03 from [here](https://www.sap.com/developer/topics/sap-hana-express.html)
 
 Modules : 
 - hdi_container (database module) 
